@@ -11,4 +11,4 @@ Do zarzadzania bazą danych użyto biblioteki ALASQL https://github.com/agershun
 
 
 
-
+![Screenshot](screenshot.jpg)
